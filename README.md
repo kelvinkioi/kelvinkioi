@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **the Art of Web Development**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/kelvinkioi?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/kelvinkioi?tab=repositories)
 
 - 📫 How to reach me **kelvinkioi.101k@gmail.com**
 
